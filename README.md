@@ -1,3 +1,5 @@
+# see https://github.com/AnotherStudent/BoringGamePrototype
+
 # 2-wireframe-130218
 
 Создайте прототип (англ. wireframe, layout или mockup) интерфейса сайта, для которого разрабатывалась диаграмма Ганта в рамках предыдущего задания или одной из игр, предложенных ниже. 
